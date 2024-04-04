@@ -1,2 +1,9 @@
-I am a web developer having expertise in frontend and exposure to backend.
-I am very good at UI fundamentals & technologies and can adapt to most of the frontend frameworks quickly.
+About Me
+🧑🏻‍💻 Pronouns: She
+💼 I’m currently looking for a job.
+📋 I have 2 + Years Of Experience in Front end developer.
+🧭 I love exploring and working both in frontend and backend.
+🎭 I love speaking at events and connecting with people.
+🌱 I’m currently learning MERN STACK and its different framerworks📊
+💬 Ask me about HTML,CSS(BOOTSTRAP),JAVASCRIPT,REACT JS,EXPRESS JS,NODE JS,MONGO DB,MY SQL
+📫 How to reach me: Check social links below.
